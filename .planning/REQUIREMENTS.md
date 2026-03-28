@@ -74,28 +74,28 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SPEC-01 | TBD | Pending |
-| SPEC-02 | TBD | Pending |
-| CORE-01 | TBD | Pending |
-| CORE-02 | TBD | Pending |
-| CORE-03 | TBD | Pending |
-| VERF-01 | TBD | Pending |
-| VERF-02 | TBD | Pending |
-| VERF-03 | TBD | Pending |
-| VERF-04 | TBD | Pending |
-| FPGA-01 | TBD | Pending |
-| FPGA-02 | TBD | Pending |
-| FPGA-03 | TBD | Pending |
-| ASIC-01 | TBD | Pending |
-| ASIC-02 | TBD | Pending |
-| DOCS-01 | TBD | Pending |
-| DOCS-02 | TBD | Pending |
+| SPEC-01 | Phase 1 | Pending |
+| SPEC-02 | Phase 2 | Pending |
+| CORE-01 | Phase 2 | Pending |
+| CORE-02 | Phase 3 | Pending |
+| CORE-03 | Phase 3 | Pending |
+| VERF-01 | Phase 2 | Pending |
+| VERF-02 | Phase 3 | Pending |
+| VERF-03 | Phase 1 | Pending |
+| VERF-04 | Phase 3 | Pending |
+| FPGA-01 | Phase 4 | Pending |
+| FPGA-02 | Phase 4 | Pending |
+| FPGA-03 | Phase 4 | Pending |
+| ASIC-01 | Phase 5 | Pending |
+| ASIC-02 | Phase 5 | Pending |
+| DOCS-01 | Phase 1 | Pending |
+| DOCS-02 | Phase 1 | Pending |
 
 **Coverage:**
 - v1 requirements: 16 total
-- Mapped to phases: 0
-- Unmapped: 16
+- Mapped to phases: 16
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-03-28*
-*Last updated: 2026-03-28 after initial definition draft*
+*Last updated: 2026-03-28 after roadmap draft*
