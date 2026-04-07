@@ -3,6 +3,7 @@
 <!-- coding-and-architecture-requirements-readme-badges:begin -->
 [![GitHub Stars](https://img.shields.io/github/stars/bright-builds-llc/basic-asic)](https://github.com/bright-builds-llc/basic-asic)
 [![License](https://img.shields.io/github/license/bright-builds-llc/basic-asic?s)](./LICENSE)
+[![Bright Builds Requirements](https://raw.githubusercontent.com/bright-builds-llc/coding-and-architecture-requirements/main/public/badges/bright-builds.svg)](https://github.com/bright-builds-llc/coding-and-architecture-requirements)
 <!-- coding-and-architecture-requirements-readme-badges:end -->
 
 Basic ASIC is an open hardware design platform for decentralized, home-scale Bitcoin
